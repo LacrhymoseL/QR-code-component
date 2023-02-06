@@ -46,7 +46,8 @@ img {
 .container {
     background-color: var(--White);
     max-width: fit-content;
-    margin: 8rem auto;
+    margin: 0 auto;
+    margin-top: 8rem;
     padding: 16px;
     border-radius: 1rem;
 }
